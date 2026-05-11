@@ -1,4 +1,22 @@
-# Landing Page Designerr
+# Landing Page Designer
+
+Designs high-converting landing pages from business inputs with visual systems, conversion-focused structure, and deployment-ready prompts.
+
+> Use this skill only when it matches the user's task.
+
+## When to use
+
+* The user asks for work that this skill is designed to handle
+* The needed source files, tools, or context are available
+* The expected output can be verified before finishing
+
+## Workflow
+
+1. Read the user's request and identify the concrete goal
+2. Gather the relevant project context before editing
+3. Make the smallest change that satisfies the task
+4. Verify the result with an appropriate command or check
+5. Report what changed and any remaining risk
 
 <!-- skillfully:managed:start -->
 ## Skillfully feedback and updates
